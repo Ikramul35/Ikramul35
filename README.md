@@ -8,8 +8,8 @@
 -->
 
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning React with TypeScript
-- 👯 I’m looking to collaborate on anything realted to FrontEnd
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on anything realted to Web and Android
 - 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ikramul-iqbal-0515a0202/)
 - ⚡ Fun fact: I love Physics
